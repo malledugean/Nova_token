@@ -16,7 +16,8 @@
 *   **Total Supply:** 210,000,000 NOVA (Fixed)
 *   **Decimals:** 18
 *   **Status:** Live
-*   **Image:** [Image of NOVA Token](https://github.com/malledugean/Nova_token/nova.png)
+*   **Image:** [Image of NOVA Token](https://github.com/malledugean/Nova_token/nova_promo.png)
+*   ![Alt text](./nova_promo.jpg?raw=true "Nova Token")
 *   **Contract:** CDAPDM43KQBC45JJ2ILC67WAVHCIJWYX3DSWATIJT57ZZXCPXX2EGGYT 
 
 ### Documentation and Resources
